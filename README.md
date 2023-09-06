@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white"/>
+<a href="https://playwright.dev/"><img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white"/></a>
 
 [x] Page object models structure; [ref](https://playwright.dev/docs/pom) <br/>
 [x] Fixtures with page objects; [ref](https://medium.com/@tpshadinijk/how-to-apply-playwright-fixtures-with-page-object-model-658368968f21) <br/>
