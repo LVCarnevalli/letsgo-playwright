@@ -7,8 +7,10 @@ $ nvm alias default 18.17.1
 # or
 $ nvm use
 ```
+3. Run `cp .env.example .env` and configure. 
+
 # Run
 ```
-$ make test
+$ npm run test
 ```
-Check in the [Makefile](./Makefile) for another commands.
+Check in the [`package.json`](./package.json) for another commands.
