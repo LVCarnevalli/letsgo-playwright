@@ -1,5 +1,5 @@
 import { test as base } from "@playwright/test";
-import { TodoTest, TodoTestOptions } from "./pages/todo/fixture";
+import { TodoTest, TodoTestOptions } from "./tests/pages/fixture";
 
 /**
  * Read test fixtures.
