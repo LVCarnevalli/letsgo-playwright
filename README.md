@@ -7,15 +7,8 @@
 [x] Prettier formatter; [ref](https://prettier.io) <br/>
 
 # Requirements
-1. Install [`nvm`](https://github.com/nvm-sh/nvm#installing-and-updating)
-2. Install `node` with `nvm`
-```
-$ nvm install 18.17.1
-$ nvm alias default 18.17.1
-# or
-$ nvm use
-```
-3. Run `cp .env.example .env` 
+1. Install `node` with [`nvm`](https://github.com/nvm-sh/nvm#installing-and-updating) or run `nvm use`
+2. Run `cp .env.example .env` 
 
 # Run
 ```
