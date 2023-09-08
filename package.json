@@ -6,7 +6,7 @@
   "scripts": {
     "prettier": "npx prettier . --write",
     "test": "npx playwright test",
-    "test-ui": "npx playwright test --ui"
+    "test.ui": "npx playwright test --ui"
   },
   "keywords": [],
   "author": "",
